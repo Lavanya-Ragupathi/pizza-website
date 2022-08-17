@@ -1,0 +1,34 @@
+#home{
+    background:url('images/i1.jpg') rgba(0,0,0,0.7);
+    min-height:550px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#testimonial {
+	
+	text-align: center;
+	background-color: #ef8172;
+}
+.testimonial-image{
+    width: 20%;
+    border-radius: 100%;
+    margin: 20px;
+}
+.testimonial-text{
+    font-size: 3rem;
+    line-height: 1.5;
+    color:#fff;
+}
+.btn-hover{
+    color: white;
+}
+#footer{
+	background-color: #F37878;
+	padding:7% 15%;
+	text-align: center;
+
+}
+.social-icons{
+	margin:20px 10px;
+}
